@@ -11,10 +11,10 @@ pip3 install termcolor
 
 # Git cloning project :
 git clone https://github.com/NullBrunk/OSVDB-69562/
-cd OSVDB-69562/ && chmod +x exploit.py
+cd OSVDB-69562/ 
 
 #Launch :
-./exploit.py
+python3 exploit.py -h
 
 ```
 
