@@ -1,5 +1,5 @@
 # OSVDB-69562
-Python3 exploit for OSVDB-69562 (Open Source Vulnerability Database) ProFTPD 1.3.3c Backdoor Command Execution
+A simple python3 exploit for OSVDB-69562 (Open Source Vulnerability Database) ProFTPD 1.3.3c Backdoor Command Execution.
 
 # How i install :
 
