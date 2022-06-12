@@ -1,5 +1,5 @@
 # OSVDB-69562
-A simple python3 exploit for OSVDB-69562 (Open Source Vulnerability Database) ProFTPD 1.3.3c Backdoor Command Execution.
+Simple python3 exploit for OSVDB-69562 (Open Source Vulnerability Database) ProFTPD 1.3.3c Backdoor Command Execution.
 
 # How to install ?
 
@@ -7,11 +7,11 @@ A simple python3 exploit for OSVDB-69562 (Open Source Vulnerability Database) Pr
 # Install dependencies :
 pip3 install termcolor
 
-#Install also netcat with your package manager
+# Install also netcat with your package manager
 
 # Git cloning project :
-git clone https://github.com/NullBrunk/OSVDB-69562/
-cd OSVDB-69562/ && clear
+git clone https://github.com/NullBrunk/ProFTPD-1.3.3c
+cd ProFTPD-1.3.3c && clear
 
 #Launch :
 python3 exploit.py -h
