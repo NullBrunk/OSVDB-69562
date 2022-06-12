@@ -10,8 +10,8 @@ pip3 install termcolor
 # Install also netcat with your package manager
 
 # Git cloning project :
-git clone https://github.com/NullBrunk/ProFTPD-1.3.3c
-cd ProFTPD-1.3.3c && clear
+git clone https://github.com/NullBrunk/ProFTPD-RCE
+cd ProFTPD-RCE && clear
 
 #Launch :
 python3 exploit.py -h
