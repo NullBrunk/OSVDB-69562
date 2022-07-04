@@ -1,13 +1,14 @@
 # ProFTPD 1.3.3c RCE
 Simple python3 exploit for OSVDB-69562 (Open Source Vulnerability Database) ProFTPD 1.3.3c Backdoor Command Execution.
 
+
+**Dependencies** : ``netcat`` or ``ncat``
 # How to install ?
 
 ```bash
 # Install dependencies :
 pip3 install termcolor
 
-# Install also netcat with your package manager
 
 # Git cloning project :
 git clone https://github.com/NullBrunk/ProFTPD-RCE
