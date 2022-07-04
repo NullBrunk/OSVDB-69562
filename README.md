@@ -11,7 +11,7 @@ pip3 install termcolor
 
 # Git cloning project :
 git clone https://github.com/NullBrunk/ProFTPD-RCE
-cd ProFTPD-RCE && clear
+cd ProFTPD-RCE
 
 #Launch :
 python3 exploit.py -h
