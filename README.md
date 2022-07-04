@@ -11,8 +11,8 @@ pip3 install termcolor
 
 
 # Git cloning project :
-git clone https://github.com/NullBrunk/ProFTPD-RCE
-cd ProFTPD-RCE
+git clone https://github.com/NullBrunk/OSVDB-69562
+cd OSVDB-69562
 
 #Launch :
 python3 exploit.py -h
